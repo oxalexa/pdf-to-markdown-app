@@ -1,0 +1,17 @@
+# Environments
+.venv/
+.venv_gemini/
+.venv2/
+venv/
+ENV/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Local telemetry logs and temporary files
+telemetry_log.jsonl
+
+# Streamlit secrets/run files
+.streamlit/secrets.toml

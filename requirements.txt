@@ -1,0 +1,4 @@
+streamlit>=1.35.0
+google-genai>=0.1.1
+pymupdf>=1.24.4
+pyyaml>=6.0.1

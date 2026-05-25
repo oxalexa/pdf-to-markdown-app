@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#8b5cf6"          # Electric Violet
+backgroundColor = "#0b0b0f"       # Deep Charcoal / Obsidian
+secondaryBackgroundColor = "#161622" # Dark Grey Card
+textColor = "#f8fafc"             # Off-White High Contrast
+font = "sans serif"
